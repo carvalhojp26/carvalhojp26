@@ -16,7 +16,7 @@
 
 <h2 align="center"> About me 🙂
 
-<h3 align="center"> My name is João Paulo, I am a Brazillian-Portuguese systems engineering student at IPCA!
+<h3 align="center"> My name is João Paulo, I am a Brazillian-Portuguese systems engineering student at <a href="https://ipca.pt/">IPCA</a>!
 
 <h3 align="center"> If you would like to take a look in some of my work here is my portfolio:
 
