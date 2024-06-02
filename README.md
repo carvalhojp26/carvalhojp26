@@ -1,8 +1,8 @@
-<center>
+<h2 align="center"> Hello! 👋 , I'm João Paulo! 
 
-## <center> Hello! 👋 , I'm João Paulo! 
+<h3 align="center"> An enthusiastic programmer from Portugal 💻
 
-### An enthusiastic programmer from Portugal 💻
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhojp26&layout=donut)]()
 
@@ -12,14 +12,25 @@
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## About me 🙂
+<br>
 
-### My name is João Paulo, I am a Brazillian-Portuguese systems engineering student at IPCA!
-### If you would like to take a look in some of my work here is my portfolio: <br>
+<h2 align="center"> About me 🙂
+
+<h3 align="center"> My name is João Paulo, I am a Brazillian-Portuguese systems engineering student at IPCA!
+
+<h3 align="center"> If you would like to take a look in some of my work here is my portfolio:
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio.joao-paulo-carvalho.com/)
 
-## Get in contact 📩
+<br>
 
-### Here is how you can reach me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://portfolio.joao-paulo-carvalho.com/) 
+<h2 align="center"> Get in contact 📩
+
+<h3 align="center"> Here is how you can reach me:
+
+<br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-carvalho-1b18b3291/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio.joao-paulo-carvalho.com/) 
