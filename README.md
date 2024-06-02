@@ -1,6 +1,6 @@
 <center>
 
-## Hello! 👋 , I'm João Paulo! 
+## <center> Hello! 👋 , I'm João Paulo! 
 
 ### An enthusiastic programmer from Portugal 💻
 
