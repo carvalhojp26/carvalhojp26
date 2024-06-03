@@ -1,6 +1,6 @@
 <h2 align="center"> Hello! 👋 , I'm João Paulo! 
 
-<h3 align="center"> An enthusiastic programmer from Portugal 💻
+<h3 align="center"> An passionate developer from Portugal 💻
 
 <br><br>
 
